@@ -1,0 +1,14 @@
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\bin\Debug\net8.0\AssignmentOnStrings.exe
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\bin\Debug\net8.0\AssignmentOnStrings.deps.json
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\bin\Debug\net8.0\AssignmentOnStrings.runtimeconfig.json
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\bin\Debug\net8.0\AssignmentOnStrings.dll
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\bin\Debug\net8.0\AssignmentOnStrings.pdb
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\AssignmentOnStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\AssignmentOnStrings.AssemblyInfoInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\AssignmentOnStrings.AssemblyInfo.cs
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\AssignmentOnStrings.csproj.CoreCompileInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\AssignmentOnStrings.dll
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\refint\AssignmentOnStrings.dll
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\AssignmentOnStrings.pdb
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\AssignmentOnStrings.genruntimeconfig.cache
+C:\Amal Roy\Day1\HandsOn Project\AssignmentOnStrings\obj\Debug\net8.0\ref\AssignmentOnStrings.dll

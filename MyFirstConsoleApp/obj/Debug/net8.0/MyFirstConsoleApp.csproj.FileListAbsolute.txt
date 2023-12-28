@@ -1,0 +1,14 @@
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Amal Roy\Day1\HandsOn Project\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll

@@ -1,0 +1,14 @@
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.exe
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.deps.json
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.runtimeconfig.json
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.dll
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.pdb
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfo.cs
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.dll
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\refint\InheritanceAssignment.dll
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.pdb
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.genruntimeconfig.cache
+C:\Amal Roy\Day1\HandsOn Project\InheritanceAssignment\obj\Debug\net8.0\ref\InheritanceAssignment.dll
